@@ -4,12 +4,21 @@ version 0.1
 
 Icon themes for **FreeCAD** (http://www.freecadweb.org/).
 
-![Dark-Blue stylesheet](/../multimedia/img/demo.png?raw=true "Simple iconTheme for FreeCAD")
+![Simple iconTheme for FreeCAD](/../multimedia/img/draft.png?raw=true "Simple iconTheme for FreeCAD")
+
+![Simple iconTheme for FreeCAD](/../multimedia/img/part_design.png?raw=true "Simple iconTheme for FreeCAD")
+
+![Simple iconTheme for FreeCAD](/../multimedia/img/part.png?raw=true "Simple iconTheme for FreeCAD")
+
+![Simple iconTheme for FreeCAD](/../multimedia/img/spreadsheet.png?raw=true "Simple iconTheme for FreeCAD")
+
+![Simple iconTheme for FreeCAD](/../multimedia/img/demo.png?raw=true "Simple iconTheme for FreeCAD")
 
 This icon theme is still in **heavy development** so, actually is not a full icon replacement for FreeCAD GUI. Read following lines to get the current status:
 
 Current status
 -------
+- **v0.2**: added **Draft, Part and Spreadsheet** workbenches icons
 - **v0.1**: full **Part Design** workbench icons added
 
 
@@ -26,7 +35,7 @@ Installation
 
 Known bugs and TO DOs
 ------
-
+- final version probably will split into two different themes, one totally desaturated (as the current theme is) and other with some colors to improve the visual experience
 - icons under dropdown menus do not work for FreeCAD 0.16 or below and for 0.17 and above they might work (they are being manually fixed so it will take time to fix full GUI)
 - other specials icons might not work
 
