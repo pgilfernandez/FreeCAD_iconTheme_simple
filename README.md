@@ -1,6 +1,6 @@
 About
 -------
-version 0.1
+version 0.2
 
 Icon themes for **FreeCAD** (http://www.freecadweb.org/).
 
@@ -11,6 +11,8 @@ Icon themes for **FreeCAD** (http://www.freecadweb.org/).
 ![Simple iconTheme for FreeCAD](/../multimedia/img/part.png?raw=true "Simple iconTheme for FreeCAD")
 
 ![Simple iconTheme for FreeCAD](/../multimedia/img/spreadsheet.png?raw=true "Simple iconTheme for FreeCAD")
+
+Light theme screenshot and some combinations with other stylesheets:
 
 ![Simple iconTheme for FreeCAD](/../multimedia/img/demo.png?raw=true "Simple iconTheme for FreeCAD")
 
