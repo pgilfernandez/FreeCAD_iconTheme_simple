@@ -1,6 +1,6 @@
 About
 -------
-version 0.2
+version 0.3
 
 Icon themes for **FreeCAD** (http://www.freecadweb.org/).
 
@@ -12,6 +12,8 @@ Icon themes for **FreeCAD** (http://www.freecadweb.org/).
 
 ![Simple iconTheme for FreeCAD](/../multimedia/img/spreadsheet.png?raw=true "Simple iconTheme for FreeCAD")
 
+![Simple iconTheme for FreeCAD](/../multimedia/img/drawing.png?raw=true "Simple iconTheme for FreeCAD")
+
 Light theme screenshot and some combinations with other stylesheets:
 
 ![Simple iconTheme for FreeCAD](/../multimedia/img/demo.png?raw=true "Simple iconTheme for FreeCAD")
@@ -20,6 +22,7 @@ This icon theme is still in **heavy development** so, actually is not a full ico
 
 Current status
 -------
+- **v0.3**: added **Drawing** workbench icons
 - **v0.2**: added **Draft, Part and Spreadsheet** workbenches icons
 - **v0.1**: full **Part Design** workbench icons added
 
