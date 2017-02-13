@@ -1,6 +1,6 @@
 About
 -------
-version 0.4
+version 0.5
 
 Icon themes for **FreeCAD** (http://www.freecadweb.org/).
 
@@ -18,14 +18,27 @@ Icon themes for **FreeCAD** (http://www.freecadweb.org/).
 
 ![Simple iconTheme for FreeCAD](/../multimedia/img/drawing.png?raw=true "Simple iconTheme for FreeCAD")
 
+![Simple iconTheme for FreeCAD](/../multimedia/img/fem.png?raw=true "Simple iconTheme for FreeCAD")
+
+![Simple iconTheme for FreeCAD](/../multimedia/img/mesh.png?raw=true "Simple iconTheme for FreeCAD")
+
+![Simple iconTheme for FreeCAD](/../multimedia/img/plot.png?raw=true "Simple iconTheme for FreeCAD")
+
+![Simple iconTheme for FreeCAD](/../multimedia/img/points.png?raw=true "Simple iconTheme for FreeCAD")
+
+![Simple iconTheme for FreeCAD](/../multimedia/img/test.png?raw=true "Simple iconTheme for FreeCAD")
+
+![Simple iconTheme for FreeCAD](/../multimedia/img/web.png?raw=true "Simple iconTheme for FreeCAD")
+
 Light theme screenshot and some combinations with other stylesheets:
 
 ![Simple iconTheme for FreeCAD](/../multimedia/img/demo.png?raw=true "Simple iconTheme for FreeCAD")
 
-This icon theme is still in **heavy development** so, actually is not a full icon replacement for FreeCAD GUI. Read following lines to get the current status:
+This icon theme is still on **development** so, actually, it is not a full icon replacement for FreeCAD GUI. Read following lines to get the current status:
 
 Current status
 -------
+- **v0.5**: added **FEM, Mesh design, Plot, Points, Test framework and Web** workbench icons
 - **v0.4**: added **Arch and Image** workbench icons and Macros toolbar ones
 - **v0.3**: added **Drawing** workbench icons
 - **v0.2**: added **Draft, Part and Spreadsheet** workbenches icons
